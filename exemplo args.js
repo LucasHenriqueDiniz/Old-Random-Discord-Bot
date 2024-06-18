@@ -1,0 +1,1 @@
+new Discord.MessageEmbed(data);
